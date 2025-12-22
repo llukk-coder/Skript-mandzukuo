@@ -11,3 +11,5 @@ Jest to polski skript Wiec skript jest Po Polsku
 7. i inne typu komendy
 spawny dzialaja osobno w swiaty wiec trzeba zrobic swiaty Plugin Multiverse-core
 Link do niego: https://www.curseforge.com/minecraft/bukkit-plugins/multiverse-core
+
+.Chcesz by Skript By sie Rozwijal Wbij na Mandzukuo.aternos.me Bo to officjalny Serwer gdzie jest tez ten skript
