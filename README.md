@@ -13,3 +13,6 @@ spawny dzialaja osobno w swiaty wiec trzeba zrobic swiaty Plugin Multiverse-core
 Link do niego: https://www.curseforge.com/minecraft/bukkit-plugins/multiverse-core
 
 .Chcesz by Skript By sie Rozwijal Wbij na Mandzukuo.aternos.me Bo to officjalny Serwer gdzie jest tez ten skript
+
+Skript nr 2 na Mandzukuo-market !
+Skript bez dodatkow na Markety
